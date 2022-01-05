@@ -1,4 +1,4 @@
-# charger-boy
+# CHARGER BOY
 A custom Li-Po battery charger/regulator PCB for the Nintendo Game Boy DMG-01
 
 
