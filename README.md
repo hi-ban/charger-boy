@@ -13,6 +13,6 @@ Since this PCB only outputs 5v, it's only suitable for being used with IPS-Scree
 
 This PCB requires to be connected to different points than the original regulator, and it also requires minimal modding to the DMG mainboard (removing a diode, connecting two solder points together and removing the battery contacts).
 
-Using a 125054 battery is recommended, as it fits perfectly in the DMG battery compartment with no modding required.
+Using a 125054 battery is recommended, as it fits perfectly in the DMG battery compartment with no additional modding required.
 
 More info coming soon.
