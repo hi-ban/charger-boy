@@ -7,6 +7,7 @@ Features:
 - Overcharge (4.25v), Overdischarge (2.9v), Overcurrent and Short-Circuit protection using a FS312F IC and a FS8205 dual mosfet.
 - Power path control: Disconnects the battery from the load while charging, so you can simultaneously play and charge without damaging the battery.
 - Power regulator, using a MT3608 step-up converter to output 5v into the system.
+- (Optional) "TMP" pad connected to the TEMP pin of the TP4056, for battery temperature protection. Must be shorted to GND if not in use.
 
 
 Since this PCB only outputs 5v, it's only suitable for being used with IPS-Screen modded units. The shape of the PCB is the same as the original regulator PCB, so it fits in the place of the old regulator.
