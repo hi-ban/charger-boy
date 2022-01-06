@@ -10,7 +10,9 @@ Features:
 - (Optional) "TMP" pad connected to the TEMP pin of the TP4056, for battery temperature protection. Must be shorted to GND if not in use.
 
 
-Since this PCB only outputs 5v, it's only suitable for being used with IPS-Screen modded units. The shape of the PCB is the same as the original regulator PCB, so it fits in the place of the old regulator.
+Since this PCB only outputs 5v, it's only suitable for being used with IPS-Screen modded units (funnyplaying, RIPS...). It won't work with original "Dot Matrix" displays.
+
+The shape of the PCB is the same as the original regulator PCB, so it fits in the place of the old regulator.
 
 This PCB requires to be connected to different points than the original regulator, and it also requires minimal modding to the DMG mainboard (removing a diode, connecting two solder points together and removing the battery contacts).
 
