@@ -11,6 +11,8 @@ Features:
 
 Since this PCB only outputs 5v, it's only suitable for being used with IPS-Screen modded units. The shape of the PCB is the same as the original regulator PCB, so it fits in the place of the old regulator.
 
-This PCB requires to be connected to different points than the original regulator, and it also requires minimal modding to the DMG mainboard (removing a diode and connecting two solder points together).
+This PCB requires to be connected to different points than the original regulator, and it also requires minimal modding to the DMG mainboard (removing a diode, connecting two solder points together and removing the battery contacts).
+
+Using a 125054 battery is recommended, as it fits perfectly in the DMG battery compartment with no modding required.
 
 More info coming soon.
