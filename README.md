@@ -9,6 +9,7 @@ Features:
 - Power regulator, using a MT3608 step-up converter to output 5v into the system.
 - Low battery LED indicator.
 - (Optional) "TMP" pad connected to the TEMP pin of the TP4056, for battery temperature protection. Must be shorted to GND if not in use.
+- (Optional) USB Type-C Connector, for those who like to make holes for charging ports.
 
 
 Since this PCB only outputs 5v, it's only suitable for being used with IPS-Screen modded units (funnyplaying, RIPS...). It won't work with original "Dot Matrix" displays.
