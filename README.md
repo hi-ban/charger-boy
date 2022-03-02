@@ -46,7 +46,7 @@ Connect the red cable to the empty solder point as shown in the image below. You
 <img src="images/003.gif"><br>
 
 ## STEP 4:
-Solder the two shown points together as shown in the image below.
+Solder the two shown points together as in the image below.
 <img src="images/004.gif"><br>
 
 ## STEP 5:
