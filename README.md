@@ -6,7 +6,7 @@ A custom Li-Po battery charger/regulator PCB for the Nintendo Game Boy DMG-01.
 - Uses the Gameboy's DC connector as power input, so you don't have to cut any holes for microUSB ports.
 - (Optional) USB Type-C Connector, for those who like carving holes for charging ports.
 - Overcharge (4.25v) protection from the TP4056.
-- Overdischarge (3.2v), Overcurrent and Short-Circuit protection using a FS312F IC.
+- Overdischarge (3.2v), Overcurrent and Short-Circuit protection using a FS312F-G IC.
 - (Optional) Battery overheat protection (only if your battery has a thermistor cable).
 - Load sharing: Disconnects the battery from the load while charging, so you can safely play while charging the battery.
 - 5.1v power regulator, using a MT3608/SDB628 step-up converter.
