@@ -50,7 +50,7 @@ Solder the two shown points together as in the image below.
 <img src="images/004.gif"><br>
 
 ## STEP 5:
-Remove the battery contacts from the mainboard in order to make space for routing the battery cables.
+Remove the battery contacts from the mainboard in order to make space for fitting the battery and routing the battery cables.
 <img src="images/005.gif"><br>
 
 ## STEP 6:
