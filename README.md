@@ -22,8 +22,10 @@ A custom Li-Po battery charger/regulator PCB for the Nintendo Game Boy DMG-01.
 
 # PCB CONFIGURATION
 
-Before installation, you must configure the overheat protection by soldering one of the two jumper pads (J1/J2).
+Before installation, you must configure the overheat protection by soldering one of the two jumper pads (J1/J2). Note that you must solder a single jumper pad only.
 You may use the overheat protection only if your battery has a thermistor (Batteries with a thermistor have a third, white cable).
+If your battery does not have a thermistor, you must disable overheat protection for the PCB to work correctly.
+
 - J1: Disable overheat protection (if your battery does not have a thermistor).
 - J2: Enable overheat protection (if your battery has a thermistor).
 <img src="images/overheat_jumpers.png"><br>
