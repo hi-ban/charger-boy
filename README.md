@@ -20,4 +20,43 @@ This PCB requires to be connected to different points than the original regulato
 
 Using a 125054 battery is recommended, as it fits perfectly in the DMG battery compartment with no additional modding required.
 
-More info coming soon.
+# INSTALLATION
+
+## STEP 1:
+Desolder the old regulator board from the cables. Keep the cables soldered to the mainboard, as we're going to reuse some of them.
+<img src="images/001.gif"><br>
+
+## STEP 2:
+Desolder the first green cable as shown in the image below. You can discard this cable.
+<img src="images/002.gif"><br>
+
+## STEP 3:
+Connect the red cable to the empty solder point as shown in the image below. You can cut the cable to make it a bit shorter if you need to.
+<img src="images/003.gif"><br>
+
+## STEP 4:
+Solder the two shown points together as shown in the image below.
+<img src="images/004.gif"><br>
+
+## STEP 5:
+Remove the battery contacts from the mainboard in order to make space for routing the battery cables.
+<img src="images/005.gif"><br>
+
+## STEP 6:
+Remove the diode next to the power switch.
+<img src="images/006.gif"><br>
+
+## STEP 7:
+Connect two cables to the (now empty) diode solder points. Leave them at least 13cm/5in long.
+<img src="images/007.gif"><br>
+
+## STEP 8:
+Connect the four cables to the Charger Boy PCB as shown in the image below. You can cut the IN+ and OUT+ cables to make them a bit shorter if you need to. Just keep them long enough so you can comfortably fit everything back in the case.
+<img src="images/008.gif"><br>
+
+## STEP 9:
+Solder additional cables to connect the battery (B+, B-). The third cable (TMP) is optional, you only need it if your battery has a thermistor cable.
+<img src="images/009.gif"><br>
+
+## STEP 10:
+To be continued...
