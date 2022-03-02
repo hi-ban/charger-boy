@@ -66,7 +66,7 @@ Connect the four cables to the Charger Boy PCB as shown in the image below. You 
 <img src="images/008.gif"><br>
 
 ## STEP 9:
-Solder additional cables to connect the battery (B+, B-). The third cable (TMP) is optional, you only need it if your battery has a thermistor cable.
+Solder additional cables to connect the battery (B+, B-). The third cable (TMP) is optional, you only need it if your battery has a thermistor cable and you have previously enabled the battery overheat protection.
 <img src="images/009.gif"><br>
 
 ## STEP 10:
