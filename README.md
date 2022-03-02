@@ -19,6 +19,16 @@ A custom Li-Po battery charger/regulator PCB for the Nintendo Game Boy DMG-01.
 
 - Using a 125054 battery is recommended, as it fits perfectly in the DMG battery compartment with no additional modding required.
 
+
+# PCB CONFIGURATION
+
+Before installation, you must configure the overheat protection by soldering one of the two jumper pads (J1/J2).
+You may use the overheat protection only if your battery has a thermistor (Batteries with a thermistor have a third, white cable).
+- J1: Disable overheat protection (if your battery does not have a thermistor).
+- J2: Enable overheat protection (if your battery has a thermistor).
+<img src="images/overheat_jumpers.png"><br>
+
+
 # INSTALLATION
 
 ## STEP 1:
