@@ -82,6 +82,7 @@ See the image below:
 # BATTERY CONNECTION
 
 I used a 2mm PH connector and it seems to be the largest one which fits. But you can also use a 1.5mm ZH connector, or just splice the cables.
+I recommend using a connector so you can easily disconnect the battery.
 See the images below:
 
 <img src="images/battery_connection.png"><br>
