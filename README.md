@@ -1,5 +1,5 @@
-# CHARGER BOY
-A custom Li-Po battery charger/regulator PCB for the Nintendo Game Boy DMG-01.
+<img src="images/logo.png"><br>
+### A custom Li-Po battery charger/regulator PCB for the Nintendo Game Boy DMG-01.
 
 ### Features:
 - Single cell Li-Po battery charger using a TP4056 IC.
