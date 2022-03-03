@@ -30,12 +30,12 @@ You can find the PCB files in the files folder.
 ### See image below:
 <img src="images/ordering.png"><br>
 - If you plan to order SMT assembly service for the PCB, please take into account that some components may not be available for the SMT assembly service.
-- Also, one or more components might be out of stock (especially the 0805 LEDs). You might have to select an equivalent component, if available. If not, you will have to find and solder the missing parts by yourself.
+- Also, one or more components might be out of stock. You might have to select an equivalent component, if available. If not, you will have to find and solder the missing parts by yourself.
 
 
 # BOM
 - All the resistors and the LEDs are 0805. All the capacitors are also 0805 except for the 22uF ones, which are 1206.
-- As before, note that one or more components might be out of stock at LCSC (especially the 0805 LEDs).
+- As before, note that one or more components might be out of stock at LCSC.
 - If you're populating the PCB by yourself, you can get the LEDs and any missing components from other component providers or from aliexpress. I found the ones from aliexpress brighter than the "basic part" ones from LCSC. This also applies to other missing components.
 - Also, you might want to use a BLINKING LED for the low battery indicator, which you can find in aliexpress and ebay (i've been unable to find those in LCSC).
 ### IMPORTANT: Some parts included in the BOM are only required for optional features, so you might not need to buy them:
