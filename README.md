@@ -77,3 +77,11 @@ I drilled two 2mm holes in the case, and used two small pieces of 2mm-diameter o
 See the image below:
 
 <img src="images/led_holes.png"><br>
+
+
+# BATTERY CONNECTION
+
+I used a 2mm PH connector and it seems to be the largest one which fits. But you can also use a 1.5mm ZH connector, or just splice the cables.
+See the images below:
+
+<img src="images/battery_connection.png"><br>
