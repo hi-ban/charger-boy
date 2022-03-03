@@ -30,7 +30,7 @@ You can find the PCB files in the files folder.
 ### See image below:
 <img src="images/ordering.png"><br>
 - If you plan to order SMT assembly service for the PCB, please take into account that some components may not be available for the SMT assembly service.
-- Also, one or more components might be out of stock (especially the 0805 LEDs). You might have to select an equivalent component, if available. If not, you will have to solder the missing parts by yourself.
+- Also, one or more components might be out of stock (especially the 0805 LEDs). You might have to select an equivalent component, if available. If not, you will have to find and solder the missing parts by yourself.
 
 
 # BOM
