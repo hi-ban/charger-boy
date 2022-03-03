@@ -49,7 +49,7 @@ You can find the PCB files in the files folder.
 
 # PCB CONFIGURATION
 
-Before installation, you must configure the overheat protection by soldering one of the two jumper pads (J1/J2). Note that you must solder a single jumper pad only.
+Before installation, you must configure the overheat protection feature by soldering one of the two jumper pads (J1/J2). Note that you must solder a single jumper pad only.
 You may use the overheat protection only if your battery has a thermistor (Batteries with a thermistor have a third, white cable).
 If your battery does not have a thermistor, you must disable overheat protection for the PCB to work correctly.
 
