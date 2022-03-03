@@ -31,7 +31,7 @@ If your battery does not have a thermistor, you must disable overheat protection
 <img src="images/overheat_jumpers.png"><br>
 
 
-# INSTALLATION
+# PCB INSTALLATION
 
 ## STEP 1:
 Desolder the old regulator board from the cables. Keep the cables soldered to the mainboard, as we're going to reuse some of them.
@@ -69,5 +69,10 @@ Connect the four cables to the Charger Boy PCB as shown in the image below. You 
 Solder additional cables to connect the battery (B+, B-). The third cable (TMP) is optional, you only need it if your battery has a thermistor and you have previously enabled the battery overheat protection (see <a href="https://github.com/hi-ban/charger-boy/blob/main/README.md#pcb-configuration">PCB CONFIGURATION</a>). 
 <img src="images/009.gif"><br>
 
-## STEP 10:
-To be continued...
+
+# LED HOLES
+
+If your Game Boy case is not transparent, you may want to drill two holes for the light from the LED indicators to be visible.
+I drilled two 2mm holes in the case, and used two small pieces of 2mm-diameter optical fiber as light pipes. See the image below:
+
+<img src="images/led_holes.png"><br>
