@@ -36,7 +36,7 @@ You can find the PCB files <a href="https://github.com/hi-ban/charger-boy/releas
 # BOM
 - All the resistors and the LEDs are 0805. All the capacitors are also 0805 except for the 22uF ones, which are 1206.
 - As before, note that one or more components might be out of stock at LCSC.
-- If you're populating the PCB by yourself, you can get the LEDs and any missing components from other component providers or from aliexpress. I found the ones from aliexpress brighter than the "basic part" ones from LCSC. This also applies to other missing components.
+- If you're populating the PCB by yourself, you can get the LEDs and any missing components from other component providers or from aliexpress. I found the LEDs from aliexpress to be brighter than the "basic part" ones from LCSC.
 - Also, you might want to use a BLINKING LED for the low battery indicator, which you can find in aliexpress and ebay (i've been unable to find those in LCSC).
 
 <img src="images/blinking_led.gif"><br>
