@@ -113,3 +113,10 @@ I recommend using a connector so you can easily disconnect the battery.
 See the images below:
 
 <img src="images/battery_connection.png"><br>
+
+# CHARGING CABLE
+
+### IMPORTANT: Make sure your USB to DC-Jack cable has the appropiate polarity. Otherwise, the PCB could be permanently damaged!
+The appropiate polarity is indicated in the Game Boy case, next to the charging port. See images below:
+<img src="images/dc_polarity.png"><br>
+<img src="images/dc_jack.png"><br>
