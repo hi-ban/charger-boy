@@ -73,6 +73,7 @@ Solder additional cables to connect the battery (B+, B-). The third cable (TMP) 
 # LED HOLES
 
 If your Game Boy case is not transparent, you may want to drill two holes for the light from the LED indicators to be visible.
-I drilled two 2mm holes in the case, and used two small pieces of 2mm-diameter optical fiber as light pipes. See the image below:
+I drilled two 2mm holes in the case, and used two small pieces of 2mm-diameter optical fiber as light pipes.
+See the image below:
 
 <img src="images/led_holes.png"><br>
