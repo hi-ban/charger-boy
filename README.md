@@ -38,6 +38,8 @@ You can find the PCB files <a href="https://github.com/hi-ban/charger-boy/releas
 - As before, note that one or more components might be out of stock at LCSC.
 - If you're populating the PCB by yourself, you can get the LEDs and any missing components from other component providers or from aliexpress. I found the ones from aliexpress brighter than the "basic part" ones from LCSC. This also applies to other missing components.
 - Also, you might want to use a BLINKING LED for the low battery indicator, which you can find in aliexpress and ebay (i've been unable to find those in LCSC).
+
+<img src="images/blinking_led.gif"><br>
 ### IMPORTANT: Some parts included in the BOM are only required for optional features, so you might not need to buy them:
 ### R4 is only needed for the overheat protection feature. If your battery does not have a thermistor, you can skip this component.
 ### R12, R13 and USB1 are only needed if you're using the optional USB-C connector. If you're not using it, you can skip this components.
