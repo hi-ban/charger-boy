@@ -20,9 +20,14 @@ A custom Li-Po battery charger/regulator PCB for the Nintendo Game Boy DMG-01.
 - Using a 125054 battery is recommended, as it fits perfectly in the DMG battery compartment with no additional modding required.
 
 
+# FILES
+You can find the PCB files in the files folder.
+
+
 # ORDERING THE PCB
 ### IMPORTANT: When ordering the PCB, make sure the PCB thickness is 1.2mm
-### Also, if you order from JLCPCB, make sure you select "Specify a Location" in the "Remove order number" field. See image below:
+### Also, if you order from JLCPCB, make sure you select "Specify a Location" in the "Remove order number" field.
+### See image below:
 <img src="images/ordering.png"><br>
 - If you plan to order SMT assembly service for the PCB, please take into account that some components may not be available for the SMT assembly service.
 - Also, one or more components might be out of stock (especially the 0805 LEDs). You might have to select an equivalent component, if available. If not, you will have to solder the missing parts by yourself.
