@@ -121,7 +121,7 @@ The appropiate polarity is indicated in the Game Boy case, next to the charging 
 <img src="images/dc_polarity.png"><br>
 <img src="images/dc_jack.png"><br>
 
-Nintendo used reversed polarity compared with the standard USB to DC-Jack cables, so if you get a generic USB to DC-Jack cable, you will most likely have to mod it to reverse the polarity. It's an easy task, just cut the cable and reconnect the two poles the inverse order.
+Nintendo used reversed polarity compared to the standard USB to DC-Jack cables, so if you get a generic USB to DC-Jack cable you will most likely have to mod it to reverse the polarity. It's a simple task, just cut the cable and reconnect the two poles the inverse order.
 
 As an alternative, you can buy specific USB Game Boy charging cables in some modding stores.
 
