@@ -20,6 +20,28 @@ A custom Li-Po battery charger/regulator PCB for the Nintendo Game Boy DMG-01.
 - Using a 125054 battery is recommended, as it fits perfectly in the DMG battery compartment with no additional modding required.
 
 
+# ORDERING THE PCB
+### IMPORTANT: When ordering the PCB, make sure the PCB thickness is 1.2mm
+### Also, if you order from JLCPCB, make sure you select "Specify a Location" in the "Remove order number" field. See image below:
+<img src="images/ordering.png"><br>
+- If you plan to order SMT assembly service for the PCB, please take into account that some components may not be available for the SMT assembly service.
+- Also, one or more components might be out of stock (especially the 0805 LEDs). You might have to select an equivalent component, if available. If not, you will have to solder the missing parts by yourself.
+
+
+# BOM
+- All the resistors and the LEDs are 0805. All the capacitors are also 0805 except the 22uF ones, which are 1206.
+- As before, note that one or more components might be out of stock at LCSC (especially the 0805 LEDs).
+- If you're populating the PCB by yourself, you can get the LEDs and any missing components from other component providers or from aliexpress. I found the ones from aliexpress brighter than the "basic part" ones from LCSC. This also applies to other missing components.
+- Also, you might want to use a BLINKING LED for the low battery indicator, which you can find in aliexpress and ebay (i've been unable to find those in LCSC).
+### IMPORTANT: Some parts included in the BOM are only required for optional features, so you might not need to buy them:
+### R4 is only needed for the overheat protection feature. If your battery does not have a thermistor, you can skip this component.
+### R12, R13 and USB1 are only needed if you're using the optional USB-C connector. If you're not using it, you can skip this components.
+
+
+# PCB ASSEMBLY
+- Don't mount the USB-C connector if you're not going to use it. The PCB with it mounted will not fit inside the case unless you carve a hole for it to stick out.
+
+
 # PCB CONFIGURATION
 
 Before installation, you must configure the overheat protection by soldering one of the two jumper pads (J1/J2). Note that you must solder a single jumper pad only.
