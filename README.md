@@ -47,7 +47,7 @@ You can find the PCB files <a href="https://github.com/hi-ban/charger-boy/releas
 
 # PCB ASSEMBLY
 - Using a stencil to apply the solder paste and a hot plate to solder the components is recommended. You will save a lot of time and effort this way.
-- Don't mount the USB-C connector if you're not going to use it. The PCB with it mounted will not fit inside the case unless you carve a hole for it to stick out.
+- **Don't mount the USB-C connector if you're not going to use it. The PCB with it mounted will not fit inside the case unless you carve a hole for it to stick out.**
 
 
 # PCB CONFIGURATION
