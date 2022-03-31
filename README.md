@@ -130,3 +130,7 @@ Nintendo used reversed polarity compared to the standard USB to DC-Jack cables, 
 As an alternative, you can buy specific USB to Gameboy-DC cables from some modding stores.
 
 Whatever option you choose, **make sure to always check the polarity before using a new cable.**
+
+# SUPPORT
+if you have any doubts or questions, i have set up a discord channel in the following link:
+https://discord.gg/NGhQgtycnW
