@@ -16,7 +16,7 @@
 ### Notes:
 - Since this PCB only outputs 5.1v, it's only suitable for being used with IPS-Screen modded units (funnyplaying, RIPS...). It won't work with original "Dot Matrix" displays.
 
-- The shape of the PCB is the same as the original regulator PCB, so it fits in the place of the old regulator.
+- This PCB is meant to replace the old regulator. It has been designed to fit tightly in the regulator slot so the PCB doesn't wiggle.
 
 - Using a 125054 battery is recommended, as it fits perfectly in the DMG battery compartment with no additional modding required.
 
