@@ -21,6 +21,10 @@
 - Using a 125054 battery is recommended, as it fits perfectly in the DMG battery compartment with no additional modding required.
 
 
+# SCHEMATIC
+<img src="images/schematic.png"><br>
+
+
 # FILES
 You can find the PCB files <a href="https://github.com/hi-ban/charger-boy/releases/latest">HERE:</a>
 
