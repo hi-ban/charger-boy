@@ -107,7 +107,7 @@ Solder additional cables to connect the battery (B+, B-). The third cable (TMP) 
 
 # COMPATIBILITY WITH CUSTOM CPU PCBs
 
-You can use the Charger Boy with other custom CPU PCBs, such as <a href="https://github.com/kamicane/Super-DMG-01">Kamicane's SuperDMG-01</a> or <a href="https://github.com/MouseBiteLabs/Game-Boy-DMG-Color">MouseBiteLabs DMG Color</a>.
+You can use the Charger Boy with other custom CPU PCBs, such as <a href="https://github.com/kamicane/Super-DMG-01">Kamicane's Super-DMG-01</a> or <a href="https://github.com/MouseBiteLabs/Game-Boy-DMG-Color">MouseBiteLabs DMG-Color</a>.
 Below are the connection diagrams for them:
 ### Super DMG-01 PCB:
 <img src="images/connect_SuperDMG01.png"><br>
