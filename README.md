@@ -105,6 +105,14 @@ Solder additional cables to connect the battery (B+, B-). The third cable (TMP) 
 <img src="images/009.gif"><br>
 
 
+# COMPATIBILITY WITH CUSTOM CPU BOARDS
+
+You can use the Charger Boy with other custom CPU boards, such as <a href="https://github.com/kamicane/Super-DMG-01">Kamicane's SuperDMG-01</a> or <a href="https://github.com/MouseBiteLabs/Game-Boy-DMG-Color">MouseBiteLabs DMG Color</a>. Below are the connection diagrams for them:
+
+<img src="images/connect_SuperDMG01.png"><br>
+<img src="images/connect_DMGColor.png"><br>
+
+
 # LED HOLES
 
 If your Game Boy case is not transparent, you may want to drill two holes for the light from the LED indicators to be visible.
