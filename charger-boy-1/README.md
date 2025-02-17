@@ -3,7 +3,7 @@
 ### A custom Li-Po battery charger/regulator PCB for the Nintendo Game Boy DMG-01.
 
 ### Features:
-- Single cell Li-Po battery charger using a TP4056 IC.
+- Single cell Li-Po battery charger (0.78A) using a TP4056 IC.
 - Uses the Gameboy's DC connector as power input, so you don't have to cut any holes for microUSB ports.
 - (Optional) USB Type-C Connector, for those who like carving holes for charging ports.
 - Overcharge (4.25v) protection from the TP4056.
