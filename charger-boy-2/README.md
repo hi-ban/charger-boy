@@ -17,3 +17,5 @@
 - This PCB is meant to replace the old regulator. It has been designed to fit tightly in the regulator slot so the PCB doesn't wiggle.
 
 - Using a 125054 battery is recommended, as it fits perfectly in the DMG battery compartment with no additional modding required.
+
+### COMING SOON...
