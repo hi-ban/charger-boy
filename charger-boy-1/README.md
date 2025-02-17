@@ -26,7 +26,7 @@
 
 
 # FILES
-You can find the PCB files <a href="https://github.com/hi-ban/charger-boy/releases/latest">HERE:</a>
+You can find the PCB files <a href="https://github.com/hi-ban/charger-boy/tree/main/charger-boy-1/files">HERE:</a>
 
 
 # ORDERING THE PCB
