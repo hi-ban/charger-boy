@@ -14,7 +14,7 @@
 - Low battery LED indicator.
 
 ### Notes:
-- Since this PCB only outputs 5.1v, it's only suitable for being used with IPS-Screen modded units (funnyplaying, RIPS...). It won't work with original "Dot Matrix" displays.
+- Since this PCB only outputs 5.1v, it's only suitable for being used with IPS-Screen modded units (funnyplaying, RIPS, Hispeedido...). It won't work with original "Dot Matrix" displays.
 
 - This PCB is meant to replace the old regulator. It has been designed to fit tightly in the regulator slot so the PCB doesn't wiggle.
 
