@@ -5,7 +5,8 @@ It is designed to require as few additonal wires as possible, and little to no m
 This board is designed to be used alongside an IPS screen mod, so it will **not** work with the original display.
 
 ## Versions:
-### &nbsp; &nbsp; &nbsp; <a href="https://github.com/hi-ban/charger-boy/tree/main/charger-boy-1">CHARGER BOY</a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/hi-ban/charger-boy/tree/main/charger-boy-2">CHARGER BOY 2</a><br>
+- ### <a href="https://github.com/hi-ban/charger-boy/tree/main/charger-boy-1">CHARGER BOY</a>
+- ### <a href="https://github.com/hi-ban/charger-boy/tree/main/charger-boy-2">CHARGER BOY 2</a>
 
 ## Support: 
 if you have any doubts or questions, i have set up a discord channel in the following link:
